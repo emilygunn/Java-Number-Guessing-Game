@@ -28,8 +28,7 @@ To recreate the development environment, you need the following software and/or 
 I found these websites useful in developing this software:
 
 * [Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
-* 
-* 
+* [w3 Schools](https://www.w3schools.com/java/)
 
 ## Future Work
 
